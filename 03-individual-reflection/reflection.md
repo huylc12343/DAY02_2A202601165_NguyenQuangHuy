@@ -22,7 +22,7 @@
 | Problem Statement | Nhờ AI phản biện Problem Card và Success Metric             | Giúp viết problem rõ hơn và bổ sung metric       | AI có xu hướng đề xuất tự động hóa hoàn toàn | Điều chỉnh về hướng AI hỗ trợ kỹ sư thay vì thay thế     |
 
 
-## Bài học của Minh
+## Bài học
 
 - Một problem tốt phải xuất phát từ pain thật, có actor, workflow và cách đo hiệu quả rõ ràng.
 - Việc vẽ current workflow giúp xác định chính xác bottleneck trước khi nghĩ đến giải pháp AI.
